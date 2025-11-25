@@ -32,7 +32,7 @@ Software:
 3D-HiFi has been tested and validated on servers running Linux.
 ```bash
 # (1) Download 3D-HiFi from GitHub
-$ git clone https://github.com/zskey-zn/3D-HiFi.git
+$ git clone https://github.com/FrasergenBioinformatics/3D-HiFi.git
 # (2) Resolve dependencies
 # We strongly recommend using conda to install dependencies. 
 $ conda env create -f environment.yml
@@ -259,9 +259,9 @@ Primary Output Files and Their Specifications
 
 ## <span id="help">Get help</span>
 ### Help
-For detailed instructions regarding chromosome ordering, orientation, and visualization, please see [automated_orient_visualization_pipeline](https://github.com/zskey-zn/3D-HiFi/tree/main/automated_orient_visualization).
+For detailed instructions regarding chromosome ordering, orientation, and visualization, please see [automated_orient_visualization_pipeline](https://github.com/FrasergenBioinformatics/3D-HiFi/tree/main/automated_orient_visualization).
 
-Feel free to raise an issue at the [isssue page](https://github.com/zskey-zn/3D-HiFi/issues)
+Feel free to raise an issue at the [isssue page](https://github.com/FrasergenBioinformatics/3D-HiFi/issues)
 
 `Note:` Please ask questions on the issue page first. They are also helpful to other users.
 ### Contact
