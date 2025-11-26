@@ -265,7 +265,7 @@ Feel free to raise an issue at the [isssue page](https://github.com/FrasergenBio
 
 `Note:` Please ask questions on the issue page first. They are also helpful to other users.
 ### Contact
-For addtional help, please send an email to zhengshang@frasergen.com
+For addtional help, please send an email to support@frasergen.com	
 
 ## <span id="Citaing">Citating</span>
 If you use 3D-HiFi in your work,please cite:
